@@ -27,9 +27,22 @@ A full-stack secure login system built with **HTML, CSS, PHP, MySQL**, and **PHP
 
 ## 📸 Screenshots
 
-> Insert screenshots or GIFs here  
-> Login | Signup | OTP Input | Dashboard | Resend OTP
+> Login
+   <img width="1360" height="679" alt="image" src="https://github.com/user-attachments/assets/79ec5cb4-4906-49dc-a726-da3f507eafcd" />
 
+> Signup
+   <img width="1361" height="643" alt="image" src="https://github.com/user-attachments/assets/ffe80029-7ac8-4264-b4eb-fa5336068947" />
+
+> OTP Input
+   <img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/45ea530e-1de7-4a8f-9376-308005bc324b" />
+
+   <img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/8e46539f-376a-4dcf-8f36-fa0c1a7efc0c" />
+
+> Dashboard
+   <img width="1337" height="640" alt="image" src="https://github.com/user-attachments/assets/d07b932a-2255-40af-9467-a7fd2b385929" />
+
+>  Resend OTP
+   After 120 sec OTP becomes invalid , Therefore New OTP should be generated so, click on resend OTP and enter the new OTP.
 ---
 
 ## ⚙️ Tech Stack
@@ -46,18 +59,18 @@ A full-stack secure login system built with **HTML, CSS, PHP, MySQL**, and **PHP
 ## 🏗️ Folder Structure
 
 CyberSecureLoginSystem/
-├── login.html
-├── signup.html
-├── verify.html
-├── login.php
-├── signup.php
-├── verify.php
-├── resend_otp.php
-├── dashboard.php
-├── logout.php
-├── style.css
-├── PHPMailer/
-└── README.md
+login.html
+signup.html
+verify.html
+login.php
+signup.php
+verify.php
+resend_otp.php
+dashboard.php
+logout.php
+style.css
+PHPMailer/
+README.md
 
 
 ---
